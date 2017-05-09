@@ -4,7 +4,7 @@
  * @license MIT
  * v1.0.1
  */
-(function(window, angular, undefined) {
+(function() {
   'use strict';
 
   function increase(value, min, max, type) {
@@ -529,4 +529,4 @@
       }
     }]);
 
-})(window, angular);
+})();
