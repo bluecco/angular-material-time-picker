@@ -2,8 +2,8 @@
   "name": "angular-material-time-picker",
   "description": "Material design time picker for 12 hour and 24 hour time",
   "main": [
-    "dist/md-time-picker.js",
-    "dist/md-time-picker.css"
+    "md-time-picker.js",
+    "md-time-picker.css"
   ],
   "authors": [
     "Matt Bajorek"
