@@ -1,4 +1,4 @@
 require('angular-material');
-require('./dist/md-time-picker');
+require('./md-time-picker');
 
 module.exports = 'md.time.picker';
