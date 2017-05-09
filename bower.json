@@ -1,0 +1,25 @@
+{
+  "name": "angular-material-time-picker",
+  "description": "Material design time picker for 12 hour and 24 hour time",
+  "main": "index.js",
+  "authors": [
+    "Matt Bajorek"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "material",
+    "time",
+    "picker",
+    "material",
+    "design"
+  ],
+  "homepage": "https://github.com/bluecco/angular-material-time-picker",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
